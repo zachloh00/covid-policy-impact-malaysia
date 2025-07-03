@@ -9,6 +9,12 @@ This analysis uses publicly available data from [data.gov.my](https://data.gov.m
 - **Monthly Petrol and Diesel Prices**
 - **MCO Timeline and Types** (from Wikipedia)
 
+### ⚠️ Caveats and Limitations
+
+- The starting dates vary between different KTMB services due to the phased rollout of KITS (from which this data is sourced).
+- Ensure this is accounted for when comparing ridership across services over time.
+
+
 Each dataset has minimal cleaning, allowing for direct time series visualization and comparison.
 
 ## 🔍 Objectives
