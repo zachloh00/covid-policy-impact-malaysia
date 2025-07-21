@@ -21,7 +21,7 @@ All data was sourced from [data.gov.my](https://data.gov.my) and public reposito
 
 ## 🛠️ Methodology
 
-- Cleaned and reconstructed active case counts using the `new - recovered` method  
+- Cleaned and corrected active case counts by handling anomalies and invalid values 
 - Filtered data for West Malaysian states only  
 - Visualised trends with time-series plots, dual-axis comparisons, and annotated policy timelines  
 - Interpreted patterns around case surges and mobility drops during major policy phases  
